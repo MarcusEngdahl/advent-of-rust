@@ -1,0 +1,1 @@
+/Users/marcusengdahl/Documents/hobbyprojekt/AdventOfRust/day1/target/debug/day1: /Users/marcusengdahl/Documents/hobbyprojekt/AdventOfRust/day1/src/in1.txt /Users/marcusengdahl/Documents/hobbyprojekt/AdventOfRust/day1/src/main.rs
